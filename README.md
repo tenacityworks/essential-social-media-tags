@@ -2,7 +2,7 @@
 The essential social media meta tags
 
 ##
-`<code>` 
+` 
 <!--  Essential META Tags -->
 
 <meta property="og:title" content="European Travel Destinations">
@@ -22,6 +22,6 @@ The essential social media meta tags
 
 <meta property="fb:app_id" content="your_app_id" />
 <meta name="twitter:site" content="@website-username">
-`<code>`
+`
 
 Sourrce: https://css-tricks.com/essential-meta-tags-social-media/
